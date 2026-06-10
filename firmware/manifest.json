@@ -1,0 +1,21 @@
+{
+    "K3F": {
+        "versione": "V140375",
+        "file": "K3F.LZS"
+    },
+
+    "K3F-N": {
+        "versione": "V150375",
+        "file": "K3F-N.LZS"
+    },
+
+    "BIGPLUS": {
+        "versione": "V140375",
+        "file": "BIGPLUS.LZS"
+    },
+
+    "BIGPLUSN": {
+        "versione": "V150377",
+        "file": "BIGPLUSN.LZS"
+    }
+}
