@@ -1,21 +1,21 @@
 {
     "K3F": {
         "versione": "V140375",
-        "file": "K3F.LZS"
+        "file": "firmware/K3F/K3F.LZS"
     },
 
     "K3F-N": {
         "versione": "V150375",
-        "file": "K3F-N.LZS"
+        "file": "firmware/K3F-N/K3F-N.LZS"
     },
 
     "BIGPLUS": {
         "versione": "V140375",
-        "file": "BIGPLUS.LZS"
+        "file": "firmware/BIGPLUS/BIGPLUS.LZS"
     },
 
     "BIGPLUSN": {
         "versione": "V150377",
-        "file": "BIGPLUSN.LZS"
+        "file": "firmware/BIGPLUSN/BIGPLUSN.LZS"
     }
 }
