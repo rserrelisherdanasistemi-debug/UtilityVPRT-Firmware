@@ -17,5 +17,45 @@
     "BIGPLUSN": {
         "versione": "V150377",
         "file": "firmware/BIGPLUSN/BIGPLUSN.LZS"
+    },
+
+    "JSMART": {
+        "versione": "V140375",
+        "file": "firmware/JSMART/BIGPLUS.LZS"
+    },
+  
+    "JSMART-N": {
+        "versione": "V140375",
+        "file": "firmware/JSMART-N/BIGPLUS.LZS"
+    },
+    
+    "KUBEIIX-F": {
+        "versione": "V140375",
+        "file": "firmware/KUBEIIX-F/BIGPLUS.LZS"
+    },
+    
+    "KUBEX-N ": {
+        "versione": "V140375",
+        "file": "firmware/KUBEX-N/BIGPLUS.LZS"
+    },
+    
+    "P3-N": {
+        "versione": "V140375",
+        "file": "firmware/P3-N/BIGPLUS.LZS"
+    },
+    
+    "Q3X": {
+        "versione": "V140375",
+        "file": "firmware/Q3X/BIGPLUS.LZS"
+    },
+        
+    "Q3X-N": {
+        "versione": "V140375",
+        "file": "firmware/Q3X-N/BIGPLUS.LZS"
+    },
+        
+    "WINDKEY": {
+        "versione": "V140375",
+        "file": "firmware/WINDKEY/BIGPLUS.LZS"
     }
 }
