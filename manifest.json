@@ -1,6 +1,6 @@
 {
     "K3F": {
-        "versione": "V140376",
+        "versione": "V140375",
         "file": "firmware/K3F/K3F.LZS"
     },
 
@@ -21,41 +21,41 @@
 
     "JSMART": {
         "versione": "V140375",
-        "file": "firmware/JSMART/BIGPLUS.LZS"
+        "file": "firmware/JSMART/JSMART.LZS"
     },
   
     "JSMART-N": {
-        "versione": "V140375",
-        "file": "firmware/JSMART-N/BIGPLUS.LZS"
+        "versione": "V150377",
+        "file": "firmware/JSMART-N/JSMART-N.LZS"
     },
     
     "KUBEIIX-F": {
         "versione": "V140375",
-        "file": "firmware/KUBEIIX-F/BIGPLUS.LZS"
+        "file": "firmware/KUBEIIX-F/KUBEIIXF.LZS"
     },
     
     "KUBEX-N ": {
         "versione": "V140375",
-        "file": "firmware/KUBEX-N/BIGPLUS.LZS"
+        "file": "firmware/KUBEX-N/.LZS"
     },
     
     "P3-N": {
-        "versione": "V140375",
-        "file": "firmware/P3-N/BIGPLUS.LZS"
+        "versione": "V150375",
+        "file": "firmware/P3-N/P3-N.LZS"
     },
     
     "Q3X": {
         "versione": "V140375",
-        "file": "firmware/Q3X/BIGPLUS.LZS"
+        "file": "firmware/Q3X/Q3X-F.LZS"
     },
         
     "Q3X-N": {
-        "versione": "V140375",
-        "file": "firmware/Q3X-N/BIGPLUS.LZS"
+        "versione": "V150375",
+        "file": "firmware/Q3X-N/Q3X-N.LZS"
     },
         
     "WINDKEY": {
         "versione": "V140375",
-        "file": "firmware/WINDKEY/BIGPLUS.LZS"
+        "file": "firmware/WINDKEY/WINDKEY.LZS"
     }
 }
