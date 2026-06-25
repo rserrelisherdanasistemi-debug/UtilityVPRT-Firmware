@@ -57,5 +57,10 @@
     "WINDKEY": {
         "versione": "V140375",
         "file": "firmware/WINDKEY/WINDKEY.LZS"
-    }
+    },
+        
+    "OMNIKEY": {
+        "versione": "V150400",
+        "file": "firmware/OMNIKEY/FUSIONK.LZS"
+    }    
 }
