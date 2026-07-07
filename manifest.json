@@ -64,8 +64,8 @@
         "file": "firmware/OMNIKEY/FUSIONK.LZS"
     },
         
-    "FUSION-N": {
+    "FUSIONN": {
         "versione": "V150400",
-        "file": "firmware/FUSION-N/FUSION-N.LZS"
+        "file": "firmware/FUSIONN/FUSION-N.LZS"
     } 
 }
