@@ -1,11 +1,11 @@
 {
     "K3F": {
-        "versione": "V140375",
+        "versione": "V140405",
         "file": "firmware/K3F/K3F.LZS"
     },
 
     "K3F-N": {
-        "versione": "V150375",
+        "versione": "V150405",
         "file": "firmware/K3F-N/K3F-N.LZS"
     },
 
@@ -40,7 +40,7 @@
     },
     
     "P3-N": {
-        "versione": "V150375",
+        "versione": "V150405",
         "file": "firmware/P3-N/P3-N.LZS"
     },
     
