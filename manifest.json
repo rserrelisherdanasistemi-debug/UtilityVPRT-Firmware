@@ -72,5 +72,10 @@
     "PR4": {
         "versione": "V150335",
         "file": "firmware/PR4/PR4.LZS"
+    },
+            
+    "ITALSTART": {
+        "versione": "V140372",
+        "file": "firmware/ITAL Start/ITSTART.LZS"
     } 
 }
